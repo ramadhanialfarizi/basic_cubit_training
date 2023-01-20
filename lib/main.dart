@@ -1,7 +1,12 @@
 import 'package:basic_cubit_training/screen/home.dart';
 import 'package:flutter/material.dart';
 
+import 'bloc_cubit/model.dart';
+
 void main() {
+  // var person = Person(name: "rama", age: 27);
+  // var person_2 = Person(name: "rama");
+  // print(person == person_2);
   runApp(const MyApp());
 }
 
